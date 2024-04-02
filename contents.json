@@ -288,7 +288,7 @@
                 "Ask me a riddle",
                 "Ask me a question",
                 "Riddle"
-            ],
+        ],
             "responses": [
                 "What two things can you never eat for breakfast?.....Lunch and Dinner!",
                 "What word is spelled incorrectly in every single dictionary?.....Incorrectly",
@@ -299,11 +299,11 @@
                 "What has a thumb and four fingers but is not actually alive?.....Your Gloves!",
                 " What 5-letter word becomes shorter when you add two letters to it?.....Short",
                 "Why can't a bike stand on it's own?.....It is two-tired."
-            ],
-            "context": [
-                "riddles"
-            ]
-        },
+    ],
+    "context": [
+        "riddles"
+    ]
+},
         {
             "tag": "age",
             "patterns": [
