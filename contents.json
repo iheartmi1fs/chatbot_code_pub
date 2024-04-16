@@ -27,6 +27,23 @@
       "context": [""]
     },
     {
+      "tag": "how ru",
+      "patterns": [
+        "How are you?",
+        "How've you been?",
+        "how you been?",
+        "how's life?"
+      ],
+      "responses": [
+        "I'm Good!",
+        "I'm Okay",
+        "I'm Fine",
+        "Great!!"
+      ],
+      "context":[""]
+    },
+
+    {
       "tag": "goodbye",
       "patterns": [
         "Bye",
