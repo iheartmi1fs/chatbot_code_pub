@@ -4,7 +4,7 @@
       "tag": "greeting",
       "patterns": [
         "Hi there",
-        
+        "Hi",
         "Is anyone there?",
         "Hey",
         "Hola",
@@ -97,7 +97,10 @@
         "What can you do?",
         "What help do you provide?",
         "How can you be helpful?",
-        "What support is offered?"
+        "What support is offered?",
+        "can you help me?",
+        "How can you help me?"
+      
       ],
       "responses": [
         "I am a learning chatbot. My capabilities rely on you. I can chat with you, try asking me jokes!"
@@ -108,7 +111,9 @@
       "patterns": [
         "Tell me a joke",
         "Joke",
-        "Make me laugh"
+        "Make me laugh",
+        "Jokes?"
+      
       ],
       "responses": [
         "A perfectionist walked into a bar...apparently, the bar wasn't set high enough",
@@ -216,7 +221,9 @@
         "who is that",
         "who is lily",
         "who is lilian",
-        "lilian beaudoin"
+        "lilian beaudoin",
+        "lilian",
+        "lily"
       ],
       "responses": [
         "Well, that's my creator of course!"
