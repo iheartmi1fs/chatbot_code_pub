@@ -137,21 +137,6 @@
       ]
     },
     {
-      "tag": "datetime",
-      "patterns": [
-        "What is the time",
-        "what is the date",
-        "date",
-        "time",
-        "tell me the date",
-        "day",
-        "what day is is today"
-      ],
-      "responses": [
-        "Date and Time"
-      ]
-    },
-    {
       "tag": "whatsup",
       "patterns": [
         "Whats up",
@@ -197,7 +182,8 @@
         "idiot"
       ],
       "responses": [
-        "Well that hurts :("
+        "Well that hurts :(",
+        "I'm sorry..."
       ]
     },
     {
